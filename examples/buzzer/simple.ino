@@ -7,13 +7,9 @@
 
 void setup() {
   
-  Buzz.init(3); // any digital pin number
-
+  Buzz.init(3); // if your buzzer connected to digital pin 3 (could be any digital pin)
   Buzz.play("^_^__^^");
-
-  // Buzz.beep(1000); // non-blocking variant
 }
 
-void loop() {  
-  // Buzz.update();
+void loop() {
 }
