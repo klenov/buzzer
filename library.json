@@ -1,0 +1,18 @@
+{
+  "name": "Buzzer",
+  "keywords": "buzzer, sound, beep",
+  "description": "An Arduino library to control piezoelectric buzzer.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klenov/buzzer"
+  },
+  "version": "1.0.0",
+  "frameworks": "arduino",
+  "platforms": [
+    "atmelavr",
+    "intel_arc32",
+    "atmelsam",
+    "teensy",
+    "espressif"
+  ]
+}
